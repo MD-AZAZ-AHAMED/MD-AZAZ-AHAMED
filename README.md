@@ -1,4 +1,4 @@
-<h1>I’m a cybersecurity enthusiast, Android malware researcher, and web developer with a passion for building secure and intelligent tech solutions.</h1>
+<h1>Cybersecurity enthusiast and web developer with a strong foundation in JavaScript, HTML, and CSS. Experienced in developing secure web applications and conducting malware research. Seeking to contribute to innovative projects that prioritize security and user experience.</h1>
 <p></p>
 <h2>🚀 My Prerferred Stack</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
