@@ -1,7 +1,13 @@
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MD-AZAZ-AHAMED&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MD-AZAZ-AHAMED&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MD-AZAZ-AHAMED&theme=github_dark&utcOffset=9)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MD-AZAZ-AHAMED&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MD-AZAZ-AHAMED&theme=github_dark)
+<h1>Cybersecurity enthusiast and web developer with a strong foundation in JavaScript, HTML, and CSS. Experienced in developing secure web applications and conducting malware research. Seeking to contribute to innovative projects that prioritize security and user experience.</h1>
+<p></p>
+<h2>🚀 My Prerferred Stack</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MD-AZAZ-AHAMED&show_icons=true&locale=en" alt="MD-AZAZ-AHAMED" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-AZAZ-AHAMED&" alt="MD-AZAZ-AHAMED" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MD-AZAZ-AHAMED&show_icons=true&locale=en&layout=compact" alt="MD-AZAZ-AHAMED" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MD-AZAZ-AHAMED" alt="MD-AZAZ-AHAMED" /></a></p>
