@@ -1,26 +1,17 @@
 <h1>Cybersecurity enthusiast and web developer with a strong foundation in JavaScript, HTML, and CSS. Experienced in developing secure web applications and conducting malware research. Seeking to contribute to innovative projects that prioritize security and user experience.</h1>
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors?repo_id=41986369" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="373" height="auto">
-    <img alt="Top Contributors of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="373" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 
+https://github.com/YourUsername/MD-AZAZ-AHAMED/blob/main/icons/activity.gif
 
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=12960671&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=12960671&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @634750802" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=12960671&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<h1 align="center">Hi <img src="https://github.com/MD-AZAZ-AHAMED/MD-AZAZ-AHAMED/blob/main/icons/Hi.gif" width="28px"/>, I'm [Your Name]</h1>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=[MD-AZAZ-AHAMED]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  Fullstack Developer
+  <a href="https://[your-portfolio-link]">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
+</h2>
+<div align="center">
+ <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+</div>
