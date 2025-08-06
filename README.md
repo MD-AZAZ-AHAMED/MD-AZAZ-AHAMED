@@ -2,7 +2,6 @@
 
 
 
-https://github.com/MD-AZAZ-AHAMED/MD-AZAZ-AHAMED/blob/main/icons/activity.gif
 
 <h1 align="center">Hi <img src="https://github.com/MD-AZAZ-AHAMED/MD-AZAZ-AHAMED/blob/main/icons/Hi.gif" width="28px"/>, I'm Azaz Ahamed</h1>
 <h2 align="center">
