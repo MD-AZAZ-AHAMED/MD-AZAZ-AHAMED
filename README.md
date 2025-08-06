@@ -22,17 +22,16 @@ Cybersecurity enthusiast and web developer with a strong foundation in **JavaScr
 
 ---
 
-<details>
-  <summary><h2>📊 My GitHub Stats</h2></summary>
-  <div align="center">
+## 📊 GitHub Stats
 
-  ![Azaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD-AZAZ-AHAMED&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-  ![Azaz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MD-AZAZ-AHAMED&theme=tokyonight&hide_border=false)
+![Azaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD-AZAZ-AHAMED&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-AZAZ-AHAMED&theme=tokyonight&hide_border=false&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=MD-AZAZ-AHAMED&theme=tokyonight&hide_border=false)
 
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-AZAZ-AHAMED&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-AZAZ-AHAMED&theme=tokyonight&hide_border=false&layout=compact)
 
-  </div>
-</details>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-AZAZ-AHAMED&theme=tokyo-night)
+
+</div>
