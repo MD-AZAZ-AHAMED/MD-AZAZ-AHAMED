@@ -4,7 +4,7 @@
 
 https://github.com/YourUsername/MD-AZAZ-AHAMED/blob/main/icons/activity.gif
 
-<h1 align="center">Hi <img src="https://github.com/MD-AZAZ-AHAMED/MD-AZAZ-AHAMED/blob/main/icons/Hi.gif" width="28px"/>, I'm [Your Name]</h1>
+<h1 align="center">Hi <img src="https://github.com/MD-AZAZ-AHAMED/MD-AZAZ-AHAMED/blob/main/icons/Hi.gif" width="28px"/>, I'm Azaz Ahamed</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=[MD-AZAZ-AHAMED]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
