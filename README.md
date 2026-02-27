@@ -1,6 +1,6 @@
 # 👨‍💻 Cybersecurity Enthusiast & Fullstack Developer
 
-Aspiring Web Developer with strong skills in HTML, CSS, JavaScript, React, and Node.js. Passionate about building responsive, user-focused web applications and continuously improving problem-solving and full-stack development abilities..
+Aspiring Web Developer with strong skills in HTML, CSS, JavaScript, React, and Node.js. Passionate about building responsive, user-focused web applications and continuously improving problem-solving and full-stack development abilities.
 
 ---
 
