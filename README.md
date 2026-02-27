@@ -1,6 +1,6 @@
-# 👨‍💻 Cybersecurity Enthusiast & Frontend Developer
+# 👨‍💻 Cybersecurity Enthusiast & Fullstack Developer
 
-Cybersecurity enthusiast and web developer with a strong foundation in **JavaScript**, **HTML**, and **CSS**. Experienced in developing secure web applications and conducting malware research. Passionate about contributing to innovative projects that prioritize **security** and **user experience**.
+Aspiring Web Developer with strong skills in HTML, CSS, JavaScript, React, and Node.js. Passionate about building responsive, user-focused web applications and continuously improving problem-solving and full-stack development abilities..
 
 ---
 
